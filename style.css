@@ -22,4 +22,5 @@ main {
   height: 100px;
   background: #F8F2F4;
   text-align: center;
+  border-radius: 5px;
 }
