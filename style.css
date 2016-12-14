@@ -20,7 +20,11 @@ main {
   display: inline-block;
   width: 100px;
   height: 100px;
-  background: #F8F2F4;
+  background: #f8f9fa;
   text-align: center;
   border-radius: 5px;
+}
+
+.key-active {
+  background-color: #d3f9d8;
 }
