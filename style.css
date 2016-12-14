@@ -1,9 +1,20 @@
 body {
   font-size: 24px;
 }
+
+main {
+  display: table;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+
 .keys {
+  display: table-cell;
+  vertical-align: middle;
   text-align: center;
 }
+
 .key {
   display: inline-block;
   width: 100px;
