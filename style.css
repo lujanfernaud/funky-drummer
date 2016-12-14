@@ -1,5 +1,6 @@
 body {
   font-size: 24px;
+  background: #BF6751;
 }
 
 main {
@@ -19,6 +20,6 @@ main {
   display: inline-block;
   width: 100px;
   height: 100px;
-  background: #f2f2f2;
+  background: #F8F2F4;
   text-align: center;
 }
