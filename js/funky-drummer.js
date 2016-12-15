@@ -8,7 +8,6 @@ window.addEventListener('keydown', function(k) {
   audio.play();
 
   pad.classList.add('pad-active');
-  console.log(pad);
 });
 
 window.addEventListener('keyup', function(k) {
