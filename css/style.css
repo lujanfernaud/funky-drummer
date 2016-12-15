@@ -30,3 +30,7 @@ main {
 .pad-active {
   background-color: #b2f2bb;
 }
+
+kbd {
+  font-size: 1.6em;
+}
