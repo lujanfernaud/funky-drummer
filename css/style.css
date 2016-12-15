@@ -24,11 +24,13 @@ main {
   line-height: 100px;
   background: #f1f3f5;
   text-align: center;
-  border-radius: 5px;
+  border-radius: 4px;
+  box-shadow: 0px 5px 0px #adb5bd;
 }
 
 .pad-active {
   background-color: #b2f2bb;
+  box-shadow: 0px 5px 0px #a6bda9;
 }
 
 kbd {
