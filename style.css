@@ -10,13 +10,13 @@ main {
   width: 100%;
 }
 
-.keys {
+.pads {
   display: table-cell;
   vertical-align: middle;
   text-align: center;
 }
 
-.key {
+.pad {
   display: inline-block;
   width: 100px;
   height: 100px;
@@ -25,6 +25,6 @@ main {
   border-radius: 5px;
 }
 
-.key-active {
+.pad-active {
   background-color: #d3f9d8;
 }
