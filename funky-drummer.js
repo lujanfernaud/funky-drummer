@@ -4,6 +4,7 @@ window.addEventListener('keydown', function(k) {
 
   var audio = document.querySelector(`audio[data-key="${k.keyCode}"`);
   if (!audio) return;
+  audio.currentTime = 0;
   audio.play();
 
   pad.classList.add('pad-active');
