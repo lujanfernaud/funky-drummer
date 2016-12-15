@@ -26,6 +26,7 @@ main {
   background: #f1f3f5;
   text-align: center;
   border-radius: 4px;
+  box-sizing: border-box;
   border-top: 2px solid #ffffff;
   box-shadow: 0px 5px 0px #adb5bd;
 }
