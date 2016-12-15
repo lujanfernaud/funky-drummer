@@ -1,6 +1,6 @@
 body {
   font-size: 24px;
-  color: #212529;
+  color: #f8f9fa;
   background: #171717;
 }
 
@@ -28,15 +28,18 @@ main {
   border-radius: 4px;
   box-sizing: border-box;
   border-top: 2px solid #ffffff;
-  box-shadow: 0px 5px 0px #adb5bd;
+  border-bottom: 2px solid #dee2e6;
+  box-shadow: 0px 3px 0px #adb5bd;
 }
 
 .pad-active {
   background-color: #b2f2bb;
   border-top: 2px solid #bdffc6;
-  box-shadow: 0px 5px 0px #a6bda9;
+  border-bottom: 2px solid #A9E6B2;
+  box-shadow: 0px 3px 0px #a6bda9;
 }
 
 kbd {
   font-size: 1.6em;
+  color: #343a40;
 }
