@@ -25,6 +25,7 @@ main {
   line-height: 100px;
   background: #f1f3f5;
   text-align: center;
+  text-shadow: 0px 1px 1px #fff;
   border-radius: 4px;
   box-sizing: border-box;
   border-top: 2px solid #ffffff;
@@ -33,7 +34,8 @@ main {
 }
 
 .pad-active {
-  background-color: #b2f2bb;
+  text-shadow: 0px 1px 1px #bdffc6;
+  background: #b2f2bb;
   border-top: 2px solid #bdffc6;
   border-bottom: 2px solid #A9E6B2;
   box-shadow: 0px 3px 0px #a6bda9;
